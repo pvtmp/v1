@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+cloudscraper>=1.2.71
+beautifulsoup4
